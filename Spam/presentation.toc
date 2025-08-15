@@ -3,3 +3,9 @@
 \beamer@subsectionintoc {1}{1}{Parallax --- Moving \& Stationary}{4}{0}{1}
 \beamer@sectionintoc {2}{Measuring Shortish Distances}{15}{0}{2}
 \beamer@subsectionintoc {2}{1}{Apparent Size, Units, Measuring Devices}{15}{0}{2}
+\beamer@subsectionintoc {2}{2}{Units}{19}{0}{2}
+\beamer@subsectionintoc {2}{3}{Measuring Devices}{26}{0}{2}
+\beamer@sectionintoc {3}{The Distance Ladder}{28}{0}{3}
+\beamer@subsectionintoc {3}{1}{Background}{28}{0}{3}
+\beamer@subsectionintoc {3}{2}{Earth}{43}{0}{3}
+\beamer@subsectionintoc {3}{3}{Moon}{54}{0}{3}

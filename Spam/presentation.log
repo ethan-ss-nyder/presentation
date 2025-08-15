@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.3.31)  13 AUG 2025 00:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.3.31)  14 AUG 2025 21:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -641,8 +641,8 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \sift@deathcycles=\count349
 \@vwid@loff=\dimen308
 \@vwid@roff=\dimen309
-)) (/usr/share/texmf-dist/tex/latex/beamer/beamerthemeBerlin.sty (/usr/share/texmf-dist/tex/latex/beamer/beamerouterthememiniframes.sty) (/usr/share/texmf-dist/tex/latex/beamer/beamercolorthemewhale.sty) (/usr/share/texmf-dist/tex/latex/beamer/beamercolorthemeorchid.sty) (/usr/share/texmf-dist/tex/latex/beamer/beamerinnerthemerectangles.sty)) (/usr/share/texmf-dist/tex/latex/beamer/beamercolorthemespruce.sty)
-LaTeX Font Info:    Trying to load font information for T1+lmss on input line 16.
+)) (/usr/share/texmf-dist/tex/latex/beamer/beamerthemeBerlin.sty (/usr/share/texmf-dist/tex/latex/beamer/beamerouterthememiniframes.sty) (/usr/share/texmf-dist/tex/latex/beamer/beamercolorthemewhale.sty) (/usr/share/texmf-dist/tex/latex/beamer/beamercolorthemeorchid.sty) (/usr/share/texmf-dist/tex/latex/beamer/beamerinnerthemerectangles.sty)) (/usr/share/texmf-dist/tex/latex/beamer/beamercolorthemespruce.sty) (/usr/share/texmf-dist/tex/latex/beamer/beamerouterthemeinfolines.sty)
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 17.
  (/usr/share/texmf-dist/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
@@ -652,24 +652,24 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 ) (Spam/presentation.aux)
 \openout1 = `presentation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -679,14 +679,14 @@ LaTeX Font Info:    ... okay on input line 16.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: includehead includefoot 
-* h-part:(L,W,R)=(28.45274pt, 307.28987pt, 28.45274pt)
+* h-part:(L,W,R)=(11.74713pt, 340.7011pt, 11.74713pt)
 * v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
 * \paperwidth=364.19536pt
 * \paperheight=273.14662pt
-* \textwidth=307.28987pt
+* \textwidth=340.7011pt
 * \textheight=244.6939pt
-* \oddsidemargin=-43.81725pt
-* \evensidemargin=-43.81725pt
+* \oddsidemargin=-60.52286pt
+* \evensidemargin=-60.52286pt
 * \topmargin=-72.26999pt
 * \headheight=14.22636pt
 * \headsep=0.0pt
@@ -724,57 +724,57 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 16.
+Package hyperref Info: Link coloring OFF on input line 17.
  (Spam/presentation.out) (Spam/presentation.out)
 \@outlinefile=\write5
 \openout5 = `presentation.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 16.
+(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 17.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/lmr/bx/n --> OT1/cmss/b/n on input line 16.
+(Font)                  OT1/lmr/bx/n --> OT1/cmss/b/n on input line 17.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 16.
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 17.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/lmss/b/n on input line 16.
+(Font)                  OT1/cmss/b/n --> OT1/lmss/b/n on input line 17.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/lmss/m/n --> T1/lmr/m/n on input line 16.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 16.
+(Font)                  OT1/lmss/m/n --> T1/lmr/m/n on input line 17.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 17.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/lmr/bx/n --> T1/lmss/b/n on input line 16.
+(Font)                  OT1/lmr/bx/n --> T1/lmss/b/n on input line 17.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/lmr/bx/n --> T1/lmss/b/n on input line 16.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 16.
+(Font)                  OT1/lmr/bx/n --> T1/lmss/b/n on input line 17.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 17.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/lmss/m/n --> T1/lmss/m/n on input line 16.
+(Font)                  OT1/lmss/m/n --> T1/lmss/m/n on input line 17.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/lmss/bx/n --> T1/lmss/m/n on input line 16.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 16.
+(Font)                  OT1/lmss/bx/n --> T1/lmss/m/n on input line 17.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 17.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/lmr/m/it --> T1/lmss/m/it on input line 16.
+(Font)                  OT1/lmr/m/it --> T1/lmss/m/it on input line 17.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/lmr/bx/it --> T1/lmss/m/it on input line 16.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 16.
+(Font)                  OT1/lmr/bx/it --> T1/lmss/m/it on input line 17.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 17.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 16.
+(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 17.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 16.
+(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 17.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 16.
+(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 17.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 16.
+(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 17.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/lmss/b/n --> T1/lmr/b/n on input line 16.
+(Font)                  OT1/lmss/b/n --> T1/lmr/b/n on input line 17.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/lmss/b/n --> T1/lmss/b/n on input line 16.
+(Font)                  T1/lmss/b/n --> T1/lmss/b/n on input line 17.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 16.
+(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 17.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 16.
+(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 17.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/lmtt/m/n --> T1/lmtt/b/n on input line 16.
+(Font)                  T1/lmtt/m/n --> T1/lmtt/b/n on input line 17.
  (/usr/share/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 ) (/usr/share/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-English.dict
@@ -800,69 +800,69 @@ Dictionary: translator-theorem-dictionary, Language: English
 [3
 
 ]
-Package pdftex.def Info: Option `bb' equivalent to `viewport' with the pdftex driver on input line 45.
-<parallaxcar.jpeg, id=132, 240.9pt x 160.6803pt>
+Package pdftex.def Info: Option `bb' equivalent to `viewport' with the pdftex driver on input line 46.
+<parallaxcar.jpeg, id=150, 240.9pt x 160.6803pt>
 File: parallaxcar.jpeg Graphic file (type jpg)
 <use parallaxcar.jpeg>
-Package pdftex.def Info: parallaxcar.jpeg  used on input line 45.
+Package pdftex.def Info: parallaxcar.jpeg  used on input line 46.
 (pdftex.def)             Requested size: 192.72072pt x 128.48047pt.
-LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 45.
+LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 46.
  (/usr/share/texmf-dist/tex/latex/lm/ot1lmss.fd
 File: ot1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 45.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 46.
  (/usr/share/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 45.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 46.
  (/usr/share/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 45.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 46.
  (/usr/share/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 45.
+(Font)              <10.95> on input line 46.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 45.
+(Font)              <8> on input line 46.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 45.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 45.
+(Font)              <6> on input line 46.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 46.
  (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 45.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 46.
  (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 45.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 46.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <8> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 45.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 46.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <6> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 45.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 46.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 45.
+(Font)              <10> on input line 46.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 45.
+(Font)              <7> on input line 46.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 45.
+(Font)              <5> on input line 46.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 45.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 46.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <7> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 45.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 46.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <5> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 45.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 46.
 
 
 [4
 
  <./parallaxcar.jpeg>]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 69.
+(Font)              <12> on input line 70.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 69.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 70.
 
 
 [5
@@ -884,21 +884,21 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
 [9
 
 ]
-Package pdftex.def Info: Option `bb' equivalent to `viewport' with the pdftex driver on input line 77.
+Package pdftex.def Info: Option `bb' equivalent to `viewport' with the pdftex driver on input line 78.
 File: parallaxcar.jpeg Graphic file (type jpg)
 <use parallaxcar.jpeg>
-Package pdftex.def Info: parallaxcar.jpeg  used on input line 77.
+Package pdftex.def Info: parallaxcar.jpeg  used on input line 78.
 (pdftex.def)             Requested size: 192.72072pt x 128.48047pt.
 
 
 [10
 
 ]
-Package pdftex.def Info: Option `bb' equivalent to `viewport' with the pdftex driver on input line 86.
-<parallaxeyes.jpg, id=322, 1454.43375pt x 2007.5pt>
+Package pdftex.def Info: Option `bb' equivalent to `viewport' with the pdftex driver on input line 87.
+<parallaxeyes.jpg, id=360, 1454.43375pt x 2007.5pt>
 File: parallaxeyes.jpg Graphic file (type jpg)
 <use parallaxeyes.jpg>
-Package pdftex.def Info: parallaxeyes.jpg  used on input line 86.
+Package pdftex.def Info: parallaxeyes.jpg  used on input line 87.
 (pdftex.def)             Requested size: 84.31157pt x 120.4451pt.
 
 
@@ -917,35 +917,291 @@ Package pdftex.def Info: parallaxeyes.jpg  used on input line 86.
 [14
 
 ]
-Package pdftex.def Info: Option `bb' equivalent to `viewport' with the pdftex driver on input line 109.
-<angletriangle.png, id=435, 270.00874pt x 153.57375pt>
+Package pdftex.def Info: Option `bb' equivalent to `viewport' with the pdftex driver on input line 110.
+<angletriangle.png, id=500, 270.00874pt x 153.57375pt>
 File: angletriangle.png Graphic file (type png)
 <use angletriangle.png>
-Package pdftex.def Info: angletriangle.png  used on input line 109.
+Package pdftex.def Info: angletriangle.png  used on input line 110.
 (pdftex.def)             Requested size: 168.6317pt x 96.36096pt.
 
 
 [15
 
 {/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc} <./angletriangle.png>]
-Package pdftex.def Info: Option `bb' equivalent to `viewport' with the pdftex driver on input line 109.
+Package pdftex.def Info: Option `bb' equivalent to `viewport' with the pdftex driver on input line 110.
 File: angletriangle.png Graphic file (type png)
 <use angletriangle.png>
-Package pdftex.def Info: angletriangle.png  used on input line 109.
+Package pdftex.def Info: angletriangle.png  used on input line 110.
 (pdftex.def)             Requested size: 168.6317pt x 96.36096pt.
 
 
 [16
 
 ]
-Package pdftex.def Info: Option `bb' equivalent to `viewport' with the pdftex driver on input line 109.
+Package pdftex.def Info: Option `bb' equivalent to `viewport' with the pdftex driver on input line 110.
 File: angletriangle.png Graphic file (type png)
 <use angletriangle.png>
-Package pdftex.def Info: angletriangle.png  used on input line 109.
+Package pdftex.def Info: angletriangle.png  used on input line 110.
 (pdftex.def)             Requested size: 168.6317pt x 96.36096pt.
 
 
 [17
+
+]
+Package pdftex.def Info: Option `bb' equivalent to `viewport' with the pdftex driver on input line 117.
+<confused.png, id=596, 799.98875pt x 583.17876pt>
+File: confused.png Graphic file (type png)
+<use confused.png>
+Package pdftex.def Info: confused.png  used on input line 117.
+(pdftex.def)             Requested size: 160.59755pt x 120.44815pt.
+
+
+[18
+
+ <./confused.png>]
+<tapemeasure.jpg, id=629, 1541.76pt x 1135.99406pt>
+File: tapemeasure.jpg Graphic file (type jpg)
+<use tapemeasure.jpg>
+Package pdftex.def Info: tapemeasure.jpg  used on input line 123.
+(pdftex.def)             Requested size: 154.18503pt x 113.60605pt.
+
+
+[19
+
+ <./tapemeasure.jpg>]
+<rollermeasure.png, id=663, 316.5426pt x 316.5426pt>
+File: rollermeasure.png Graphic file (type png)
+<use rollermeasure.png>
+Package pdftex.def Info: rollermeasure.png  used on input line 128.
+(pdftex.def)             Requested size: 158.2709pt x 158.2709pt.
+
+
+[20
+
+ <./rollermeasure.png>]
+
+[21
+
+]
+
+[22
+
+]
+
+[23
+
+]
+
+[24
+
+]
+
+[25
+
+]
+File: tapemeasure.jpg Graphic file (type jpg)
+<use tapemeasure.jpg>
+Package pdftex.def Info: tapemeasure.jpg  used on input line 149.
+(pdftex.def)             Requested size: 154.18503pt x 113.60605pt.
+File: rollermeasure.png Graphic file (type png)
+<use rollermeasure.png>
+Package pdftex.def Info: rollermeasure.png  used on input line 149.
+(pdftex.def)             Requested size: 158.2709pt x 158.2709pt.
+
+
+[26
+
+]
+<moon.jpg, id=870, 360.59718pt x 328.97906pt>
+File: moon.jpg Graphic file (type jpg)
+<use moon.jpg>
+Package pdftex.def Info: moon.jpg  used on input line 156.
+(pdftex.def)             Requested size: 162.26723pt x 148.0392pt.
+
+
+[27
+
+ <./moon.jpg>]
+
+[28
+
+]
+
+[29
+
+]
+
+[30
+
+]
+
+[31
+
+]
+
+[32
+
+]
+<eclipse.jpg, id=1052, 1856.9375pt x 619.31375pt>
+File: eclipse.jpg Graphic file (type jpg)
+<use eclipse.jpg>
+Package pdftex.def Info: eclipse.jpg  used on input line 180.
+(pdftex.def)             Requested size: 315.6752pt x 105.28194pt.
+
+
+[33
+
+ <./eclipse.jpg>]
+
+[34
+
+]
+<lunar2.JPG, id=1115, 932.48375pt x 621.32124pt>
+File: lunar2.JPG Graphic file (type jpg)
+<use lunar2.JPG>
+Package pdftex.def Info: lunar2.JPG  used on input line 196.
+(pdftex.def)             Requested size: 139.86652pt x 93.19415pt.
+<lunar1.JPG, id=1116, 932.48375pt x 621.32124pt>
+File: lunar1.JPG Graphic file (type jpg)
+<use lunar1.JPG>
+Package pdftex.def Info: lunar1.JPG  used on input line 196.
+(pdftex.def)             Requested size: 139.86652pt x 93.19415pt.
+
+
+[35
+
+ <./lunar2.JPG> <./lunar1.JPG>]
+
+[36
+
+]
+
+[37
+
+]
+
+[38
+
+]
+<geocentric.png, id=1237, 620.3175pt x 619.31375pt>
+File: geocentric.png Graphic file (type png)
+<use geocentric.png>
+Package pdftex.def Info: geocentric.png  used on input line 217.
+(pdftex.def)             Requested size: 155.079pt x 154.82805pt.
+
+
+[39
+
+ <./geocentric.png>]
+<ecliptic.png, id=1270, 666.49pt x 251.94125pt>
+File: ecliptic.png Graphic file (type png)
+<use ecliptic.png>
+Package pdftex.def Info: ecliptic.png  used on input line 225.
+(pdftex.def)             Requested size: 199.94853pt x 75.58295pt.
+<eclipticsky.jpg, id=1271, 2055.68pt x 1156.32pt>
+File: eclipticsky.jpg Graphic file (type jpg)
+<use eclipticsky.jpg>
+Package pdftex.def Info: eclipticsky.jpg  used on input line 225.
+(pdftex.def)             Requested size: 164.45776pt x 92.50748pt.
+
+
+[40
+
+ <./ecliptic.png> <./eclipticsky.jpg>]
+
+[41
+
+]
+
+[42
+
+]
+<nearsun.png, id=1362, 711.65875pt x 466.74374pt>
+File: nearsun.png Graphic file (type png)
+<use nearsun.png>
+Package pdftex.def Info: nearsun.png  used on input line 245.
+(pdftex.def)             Requested size: 135.21657pt x 88.68222pt.
+<farsun.png, id=1363, 858.20625pt x 466.74374pt>
+File: farsun.png Graphic file (type png)
+<use farsun.png>
+Package pdftex.def Info: farsun.png  used on input line 245.
+(pdftex.def)             Requested size: 163.06088pt x 88.68222pt.
+
+
+[43
+
+ <./nearsun.png> <./farsun.png>]
+<aristocrates.png, id=1399, 993.7125pt x 443.6575pt>
+File: aristocrates.png Graphic file (type png)
+<use aristocrates.png>
+Package pdftex.def Info: aristocrates.png  used on input line 252.
+(pdftex.def)             Requested size: 298.11604pt x 133.09827pt.
+
+
+[44
+
+ <./aristocrates.png>]
+
+[45
+
+]
+
+[46
+
+]
+
+[47
+
+]
+
+[48
+
+]
+<eritosthenesdiagram.png, id=1554, 555.92308pt x 306.68423pt>
+File: eritosthenesdiagram.png Graphic file (type png)
+<use eritosthenesdiagram.png>
+Package pdftex.def Info: eritosthenesdiagram.png  used on input line 275.
+(pdftex.def)             Requested size: 194.57599pt x 107.34108pt.
+
+
+[49
+
+ <./eritosthenesdiagram.png (PNG copy)>]
+File: eritosthenesdiagram.png Graphic file (type png)
+<use eritosthenesdiagram.png>
+Package pdftex.def Info: eritosthenesdiagram.png  used on input line 275.
+(pdftex.def)             Requested size: 194.57599pt x 107.34108pt.
+
+
+[50
+
+]
+<egyptmap.png, id=1615, 853.1875pt x 908.39375pt>
+File: egyptmap.png Graphic file (type png)
+<use egyptmap.png>
+Package pdftex.def Info: egyptmap.png  used on input line 286.
+(pdftex.def)             Requested size: 85.32375pt x 90.8447pt.
+
+
+[51
+
+ <./egyptmap.png>]
+<earthdiam.png, id=1649, 401.5pt x 422.57875pt>
+File: earthdiam.png Graphic file (type png)
+<use earthdiam.png>
+Package pdftex.def Info: earthdiam.png  used on input line 302.
+(pdftex.def)             Requested size: 160.59715pt x 169.0285pt.
+
+
+[52
+
+ <./earthdiam.png>]
+
+[53
+
+]
+
+[54
 
 ]
 \tf@nav=\write6
@@ -963,21 +1219,21 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `presentation.out' has not changed.
-(rerunfilecheck)             Checksum: 9C37EF3823D27D7FA9A0178FCB2CE6D4;782.
+(rerunfilecheck)             Checksum: 02489025242E1683DBE219A9660E8AC5;1425.
  ) 
 Here is how much of TeX's memory you used:
- 24419 strings out of 475171
- 465869 string characters out of 5767095
- 838063 words of memory out of 5000000
- 46832 multiletter control sequences out of 15000+600000
+ 24688 strings out of 475171
+ 469904 string characters out of 5767095
+ 840821 words of memory out of 5000000
+ 47018 multiletter control sequences out of 15000+600000
  634383 words of font info for 92 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 128i,14n,123p,434b,959s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsso10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsso12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on Spam/presentation.pdf (17 pages, 539576 bytes).
+ 128i,16n,123p,434b,959s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsso10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsso12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsso8.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy8.pfb>
+Output written on Spam/presentation.pdf (54 pages, 3510657 bytes).
 PDF statistics:
- 573 PDF objects out of 1000 (max. 8388607)
- 498 compressed objects within 5 object streams
- 39 named destinations out of 1000 (max. 500000)
- 90 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1819 PDF objects out of 2073 (max. 8388607)
+ 1588 compressed objects within 16 object streams
+ 119 named destinations out of 1000 (max. 500000)
+ 218 words of extra memory for PDF output out of 10000 (max. 10000000)
 
