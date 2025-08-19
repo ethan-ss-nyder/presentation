@@ -1,12 +1,12 @@
 # Fdb version 4
-["pdflatex"] 1755306343.08717 "c:/Users/ethan/Documents/presentation/presentation.tex" "Spam/presentation.pdf" "presentation" 1755306352.86017 0
-  "Spam/presentation.aux" 1755306352 8247 58998a4111bca6a0cf16005bf0daaa28 "pdflatex"
-  "Spam/presentation.nav" 1755306352 5367 7ff9f6e68eec84713cca450f96b431f3 "pdflatex"
-  "Spam/presentation.out" 1755306352 1425 02489025242e1683dbe219a9660e8ac5 "pdflatex"
-  "Spam/presentation.toc" 1755306352 612 611b9212f55d2d06dabb9b688b568be7 "pdflatex"
+["pdflatex"] 1755582584.97403 "c:/Users/ethan/Documents/presentation/presentation.tex" "Spam/presentation.pdf" "presentation" 1755582592.10179 0
+  "Spam/presentation.aux" 1755582591 9493 b0d083499d25eebf3a6cf80731cb4562 "pdflatex"
+  "Spam/presentation.nav" 1755582591 6094 cc7fe5d7244e4e7801bd9f50a754a41a "pdflatex"
+  "Spam/presentation.out" 1755582591 1776 b25ad7477220a8ed15bfdf9c9470d615 "pdflatex"
+  "Spam/presentation.toc" 1755582591 807 0dfb07afa9d0735c0d8e5c991c1bef88 "pdflatex"
   "angletriangle.png" 1755305431 6824 12b22629da89caf78cf7f8754206c879 ""
   "aristocrates.png" 1755305431 31956 20b0d1d2d2e4c0f7da641dc249920436 ""
-  "c:/Users/ethan/Documents/presentation/presentation.tex" 1755306342 16851 b96b14b2ee1c56762f481c9c4a2ef047 ""
+  "c:/Users/ethan/Documents/presentation/presentation.tex" 1755582572 18129 24efabb2e7a3c6b79a02a4cccab821e6 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1733028633 2375 baa924870cfb487815765f9094cf3728 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc" 1733028633 2405 5dcf2c1b967ee25cc46c58cd52244aed ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc" 1733028633 2840 216e6e45ad352e2456e1149f28885bee ""
@@ -259,7 +259,7 @@
   "nearsun.png" 1755305431 40139 95dcf79fb633f46a6230b381d3f50367 ""
   "parallaxcar.jpeg" 1755305431 228982 3628cbd7dbb647c6a48e479a670f6487 ""
   "parallaxeyes.jpg" 1755305431 138394 10babe18f0fcb5557491f7836877208d ""
-  "presentation.tex" 1755306342 16851 b96b14b2ee1c56762f481c9c4a2ef047 ""
+  "presentation.tex" 1755582572 18129 24efabb2e7a3c6b79a02a4cccab821e6 ""
   "rollermeasure.png" 1755305431 384811 80fdc65c11dd121857f6944b26674a8f ""
   "tapemeasure.jpg" 1755305431 229682 d1b0a050e4674015036b17d1704a1416 ""
   (generated)

@@ -9,3 +9,7 @@
 \beamer@subsectionintoc {3}{1}{Background}{28}{0}{3}
 \beamer@subsectionintoc {3}{2}{Earth}{43}{0}{3}
 \beamer@subsectionintoc {3}{3}{Moon}{54}{0}{3}
+\beamer@subsectionintoc {3}{4}{Sun}{56}{0}{3}
+\beamer@subsectionintoc {3}{5}{Planets}{57}{0}{3}
+\beamer@subsectionintoc {3}{6}{Stars}{57}{0}{3}
+\beamer@subsectionintoc {3}{7}{Galaxies}{58}{0}{3}

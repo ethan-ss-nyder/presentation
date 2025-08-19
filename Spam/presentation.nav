@@ -93,8 +93,22 @@
 \headcommand {\beamer@framepages {54}{54}}
 \headcommand {\slideentry {3}{3}{2}{55/55}{Moon}{0}}
 \headcommand {\beamer@framepages {55}{55}}
-\headcommand {\beamer@partpages {1}{55}}
-\headcommand {\beamer@subsectionpages {56}{55}}
-\headcommand {\beamer@sectionpages {28}{55}}
-\headcommand {\beamer@documentpages {55}}
-\headcommand {\gdef \inserttotalframenumber {36}}
+\headcommand {\beamer@subsectionpages {54}{55}}
+\headcommand {\beamer@subsectionentry {0}{3}{4}{56}{Sun}}
+\headcommand {\slideentry {3}{4}{1}{56/56}{Sun}{0}}
+\headcommand {\beamer@framepages {56}{56}}
+\headcommand {\beamer@subsectionpages {56}{56}}
+\headcommand {\beamer@subsectionentry {0}{3}{5}{57}{Planets}}
+\headcommand {\beamer@subsectionpages {57}{56}}
+\headcommand {\beamer@subsectionentry {0}{3}{6}{57}{Stars}}
+\headcommand {\slideentry {3}{6}{1}{57/57}{Stars}{0}}
+\headcommand {\beamer@framepages {57}{57}}
+\headcommand {\beamer@subsectionpages {57}{57}}
+\headcommand {\beamer@subsectionentry {0}{3}{7}{58}{Galaxies}}
+\headcommand {\slideentry {3}{7}{1}{58/58}{Galaxies}{0}}
+\headcommand {\beamer@framepages {58}{58}}
+\headcommand {\beamer@partpages {1}{58}}
+\headcommand {\beamer@subsectionpages {58}{58}}
+\headcommand {\beamer@sectionpages {28}{58}}
+\headcommand {\beamer@documentpages {58}}
+\headcommand {\gdef \inserttotalframenumber {39}}
