@@ -318,26 +318,201 @@
             \footnotemark{\tiny Image: https://pwg.gsfc.nasa.gov/stargaze/Shipparc.htm}
         \end{frame}
         \begin{frame}{Hipparchus}{Enjoy this drawing, I'm getting lazier and I'm just going to use MSPaint}
-            
+            \begin{figure}
+                \includegraphics[scale=0.5, frame]{hipparchuspaint.jpg}
+                \caption{Moon measuring setup geometry and on-Earth POV}
+            \end{figure}
+            \footnotetext{\tiny Image: me ;)}
+        \end{frame}
+        \begin{frame}{Hipparchus}{Distance to the moon, the math} \centering
+            \begin{block}{Givens:}
+                The distance between Hellespont and Alexandria was $9^\circ$ of lattitude exactly\\
+                The moon and sun are in set locations, but only appear to be in different places because of parallax\\
+                They knew the sun spanned $0.5^\circ$ in the sky
+            \end{block}
+            \pause
+            \begin{block}{Unknowns/Measurements:}
+                At the same point in time, the moon covered both 100\% and 80\% of the sun\\
+                $\theta=(1-0.80)*0.5^\circ=0.1^\circ$ parallax of the moon\\
+                this means $9^\circ$ of arc length on the Earth results in a $0.1^\circ$ parallax angle in the moon :))))
+            \end{block}
+        \end{frame}
+        \begin{frame}{now we have numbers}{let us not lose sight of the purpose of such knowledge} \centering
+            ``$9^\circ$ of arc length on the Earth results in a $0.1^\circ$ parallax angle in the moon''
+            \begin{figure}
+                \includegraphics[scale=0.7, frame]{hipparchusnums.jpeg}
+            \end{figure}
+        \end{frame}
+        \begin{frame}{now we have numbers}{let us not lose sight of the purpose of such knowledge} \centering
+            Arc length: $s=r\theta$\\ \vspace{0.5em}
+            $s_{Earth}=R_{Earth}({9^\circ})$ \& $s_{Moon}=r_{Moon}({0.1^\circ})$\\ \vspace{0.5em}
+            set these equal\\ \vspace{1em}
+            \pause
+            $R_{Earth}(9^\circ)=r_{Moon}(0.1^\circ)$\\ \vspace{1em}
+            $\frac{R_{Earth}}{r_{Moon}}=\frac{9}{0.1} \implies r_{moon} = \frac{R_{Earth}}{90}$\\ \vspace{2em}
+            look!!! the unknown variable in terms of known values!!!!!\\
+        \end{frame}
+        \begin{frame}{Putting it all together}{Forming the distance ladder} \centering
+            This measurement gave Hipparchus the result that the moon is 90$x$ smaller than the Earth, so\ldots \\ \vspace{1em}
+            Remember apparent size:
+        \end{frame}
+        \begin{frame}{Apparent Size}{What if you \textit{know the size of a distant object?}} \centering
+            Easiest solution for measuring a distance.
+            \begin{figure}
+                \includegraphics[scale=0.6, bb=0 0 280 160]{angletriangle.png}
+            \end{figure}
+            \[\sin{\theta}=\frac{h}{d} \implies d=\frac{h}{\sin{\theta}}\]
+        \end{frame}
+        \begin{frame}{Putting it all together}{Forming the distance ladder} \centering
+            This measurement gave Hipparchus the result that the moon is 90$x$ smaller than the Earth, so\ldots \\ \vspace{1em}
+            Remember apparent size: $d=\frac{h}{\sin{\theta}}$\\ \vspace{1em}
+            where $h=r_{Moon}=\frac{R_{Earth}}{90}$ and $\theta=0.5^\circ$ (measureable)\\ \vspace{1.5em}
+            \alert{\[d_{Moon}=\frac{h}{\sin{\theta}}=\frac{r_{Moon}}{\sin{\theta}}=\frac{\frac{R_{Earth}}{90}}{\sin{0.5^\circ}}\]}
+        \end{frame}
+        \begin{frame}{Distance Ladder}
+            \begin{columns}
+                \begin{column}{0.5\linewidth}
+                    \begin{figure}
+                        \includegraphics{distanceladder1.jpeg}
+                    \end{figure}
+                \end{column}
+                \begin{column}{0.5\linewidth}
+                    \begin{itemize}
+                        \item $R_{Earth}=\frac{360*1070\mathrm{km}}{7.2^\circ}$
+                        \item $d_{Moon}=\frac{\frac{R_{Earth}}{90}}{\sin{0.5^\circ}}$
+                    \end{itemize}
+                \end{column}
+            \end{columns}
         \end{frame}
     \subsection{Sun}
-        \begin{frame}{How far is the sun?}{This would've been really complicated math, but the moon and the sun happen to be the same apparent size} \centering
-            Because the moon and the sun are the same apparent size in the sky, and since we know how big and far the moon is\ldots\\
-            We know that if the sun is $x$ times further than the moon, that is must also be $x$ times larger.\\
-            % Add more here, I might not know what I'm talking about. I need to read more on this
+        \begin{frame}{How far is the sun?}{For the sake of time this is going to be hand-wavey} \centering
+            This is the goal --- use a transit of Venus and parallax\\
+            Find $d_{EV}$ and $d_{VS}$, add them to get $d_{ES}$
+            \begin{figure}
+                \includegraphics[scale=0.5, frame]{venustransit.png}
+            \end{figure}
+            \footnotetext{\tiny Image: https://profmattstrassler.com/articles-and-posts/relativity-space-astronomy-and-cosmology/transit-of-venus-and-the-distance-to-the-sun/}
         \end{frame}
-    \subsection{Planets}
+        \begin{frame}{How far is the sun?}{Calculate distance to Venus, distance from Venus to the Sun, then add these :))))}
+            Self explanatory. We know \textit{how many times smaller} Venus' orbit is than ours, but how big Earth's orbit is \textit{is the question.}
+            \begin{figure}
+                \includegraphics[scale=0.3]{venusorbit.png}
+            \end{figure}
+        \end{frame}
+        \begin{frame}{How far is the sun?}{Calculate distance to Venus, distance from Venus to the Sun, then add these :))))}
+            Kind of the same as measuring the distance to the moon with parallax :)\\
+            You can also just time how long Venus takes to transit from two spots, much less precise than measuring angles
+            \begin{figure}
+                \includegraphics[scale=0.6]{halley2.png}
+                \includegraphics[scale=0.6]{halley1.png}
+            \end{figure}
+            \footnotetext{\tiny Image: http://www.phy6.org/stargaze/Svenus1.htm}
+        \end{frame}
+        \begin{frame}
+            it's actually super super hard
+            \begin{figure}
+                \includegraphics[scale=0.5]{halley3.png}
+                \includegraphics[scale=0.3]{halley4.png}
+            \end{figure}
+            You also don't need the distance to the moon, just the Earth's radius but oh well
+        \end{frame}
+        \begin{frame}{Distance Ladder}{Edmund Halley (the comet guy) came up with this Venus transit method and died before it was done in 1761 and 1769.}
+            \begin{columns}
+                \begin{column}{0.5\linewidth}
+                    \begin{figure}
+                        \includegraphics{distanceladder2.jpg}
+                    \end{figure}
+                \end{column}
+                \begin{column}{0.5\linewidth}
+                    \begin{itemize}
+                        \item $R_{Earth}=\frac{360*1070\mathrm{km}}{7.2^\circ}$
+                        \item $d_{Moon}=\frac{\frac{R_{Earth}}{90}}{\sin{0.5^\circ}}$
+                        \item $\mathrm{1AU}=d_{Sun}\propto{R_{Earth}}$
+                    \end{itemize}
+                \end{column}
+            \end{columns}
+        \end{frame}
     \subsection{Stars}
-        \begin{frame}{How far are the stars?}{We can only calculate this if we know the astronomical unit (AU)}
-            % This needs diagrams or something, this is the most cool, classic example of parallax measurements
+        \begin{frame}{How far are the stars?}{We can only calculate this if we know the astronomical unit (AU)} \centering
+            IT'S PARALLAX AGAIN IT'S PARALLAX
+            \begin{figure}
+                \begin{figure}
+                    \includegraphics{stellarparallaxdiagram.png}
+                \end{figure}
+            \end{figure}
+        \end{frame}
+        \begin{frame}{How far are the stars?}{Genuinely the easiest math yet} \centering
+            \begin{figure}
+                \includegraphics{stellarparallaxdiagram2.jpg}
+            \end{figure}
+            \[\tan{\frac{\alpha}{2}}=\frac{\mathrm{1AU}}{d_{star}} \implies \tan{\alpha}\approx\frac{\mathrm{1AU}}{d_{star}}\]
+        \end{frame}
+        \begin{frame}{How far are the stars?}{Genuinely the easiest math yet, that's all there is to it} \centering
+            \[d_{star}=\frac{\mathrm{1AU}}{\tan{\alpha}}\] \\ \vspace{1em}
+            Literally just measure the angle to a star six months apart easy
+        \end{frame}
+        \begin{frame}{How far are the stars?}{The largest scale we've ever done this on is with the New Horizons probe}
+            \begin{figure}
+                \includegraphics[scale=0.3]{Parallax_wide.jpg}
+            \end{figure}
+        \end{frame}
+        \begin{frame}{How far are the stars?}
+            \begin{figure}
+                \includegraphics[scale=0.42]{WolfCrossEyed.png}
+            \end{figure}
+            \footnotetext{\tiny Image: NASA}
+        \end{frame}
+        \begin{frame}{Distance Ladder}
+            \begin{columns}
+                \begin{column}{0.5\linewidth}
+                    \begin{figure}
+                        \includegraphics{distanceladder3.jpg}
+                    \end{figure}
+                \end{column}
+                \begin{column}{0.5\linewidth}
+                    \begin{itemize}
+                        \item $R_{Earth}=\frac{360*1070\mathrm{km}}{7.2^\circ}$
+                        \item $d_{Moon}=\frac{\frac{R_{Earth}}{90}}{\sin{0.5^\circ}}$
+                        \item $\mathrm{1AU}=d_{Sun}\propto{R_{Earth}}$
+                        \item $d_{star}=\frac{d_{sun}}{\tan\alpha}\propto\frac{R_{Earth}}{\tan\alpha}$
+                    \end{itemize}
+                \end{column}
+            \end{columns}
         \end{frame}
     \subsection{Galaxies}
         \begin{frame}{How far are galaxies?} \centering
-            Galaxies are so distant that they have no apparent motion due to parallax. It's too small to measure.\\
-
-            This is where all the really neat fun geometry breaks down and it just gets to grueling modern science of measuring light and doing really hard math.
-
-            % How do we know how far galaxies are from us? That's a great question. I don't know, other than redshift and spectroscopy.
+            :(
         \end{frame}
+        \begin{frame}{How far are galaxies?}{NOT IN THE SPIRIT OF THE PRESENTATION, NO PARALLAX :(}
+            \begin{figure}
+                \includegraphics[scale=0.22]{redshift.png}
+                \caption{misery}
+            \end{figure}
+        \end{frame}
+        \begin{frame}{Distance Ladder}{Conclusion}
+            \begin{columns}
+                \begin{column}{0.5\linewidth}
+                    \begin{figure}
+                        \includegraphics{distanceladder4.jpg}
+                    \end{figure}
+                \end{column}
+                \begin{column}{0.5\linewidth}
+                    \begin{itemize}
+                        \item $R_{Earth}=\frac{360*1070\mathrm{km}}{7.2^\circ}$
+                        \item $d_{Moon}=\frac{\frac{R_{Earth}}{90}}{\sin{0.5^\circ}}$
+                        \item $\mathrm{1AU}=d_{Sun}\propto{R_{Earth}}$
+                        \item $d_{star}=\frac{d_{sun}}{\tan\alpha}\propto\frac{R_{Earth}}{\tan\alpha}$
+                        \item $d_{galaxy}=$ idiot math
+                    \end{itemize}
+                    $d_{galaxy}$ stops being cool geometry and starts being math so, not including that BS
+                \end{column}
+            \end{columns}
+        \end{frame}
+        \begin{frame}{questions?}
+            \begin{figure}
+                \includegraphics{distanceladder4.jpg}
+            \end{figure}
+        \end{frame}
+
 
 \end{document}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.1)  19 AUG 2025 01:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.1)  22 AUG 2025 16:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -797,7 +797,7 @@ Dictionary: translator-theorem-dictionary, Language: English
 
 ]
 Package pdftex.def Info: Option `bb' equivalent to `viewport' with the pdftex driver on input line 46.
-<parallaxcar.jpeg, id=167, 240.9pt x 160.6803pt>
+<parallaxcar.jpeg, id=163, 240.9pt x 160.6803pt>
 File: parallaxcar.jpeg Graphic file (type jpg)
 <use parallaxcar.jpeg>
 Package pdftex.def Info: parallaxcar.jpeg  used on input line 46.
@@ -891,7 +891,7 @@ Package pdftex.def Info: parallaxcar.jpeg  used on input line 78.
 
 ]
 Package pdftex.def Info: Option `bb' equivalent to `viewport' with the pdftex driver on input line 87.
-<parallaxeyes.jpg, id=376, 1454.43375pt x 2007.5pt>
+<parallaxeyes.jpg, id=372, 1454.43375pt x 2007.5pt>
 File: parallaxeyes.jpg Graphic file (type jpg)
 <use parallaxeyes.jpg>
 Package pdftex.def Info: parallaxeyes.jpg  used on input line 87.
@@ -914,7 +914,7 @@ Package pdftex.def Info: parallaxeyes.jpg  used on input line 87.
 
 ]
 Package pdftex.def Info: Option `bb' equivalent to `viewport' with the pdftex driver on input line 110.
-<angletriangle.png, id=523, 270.00874pt x 153.57375pt>
+<angletriangle.png, id=519, 270.00874pt x 153.57375pt>
 File: angletriangle.png Graphic file (type png)
 <use angletriangle.png>
 Package pdftex.def Info: angletriangle.png  used on input line 110.
@@ -945,7 +945,7 @@ Package pdftex.def Info: angletriangle.png  used on input line 110.
 
 ]
 Package pdftex.def Info: Option `bb' equivalent to `viewport' with the pdftex driver on input line 117.
-<confused.png, id=620, 799.98875pt x 583.17876pt>
+<confused.png, id=616, 799.98875pt x 583.17876pt>
 File: confused.png Graphic file (type png)
 <use confused.png>
 Package pdftex.def Info: confused.png  used on input line 117.
@@ -955,7 +955,7 @@ Package pdftex.def Info: confused.png  used on input line 117.
 [18
 
  <./confused.png>]
-<tapemeasure.jpg, id=652, 1541.76pt x 1135.99406pt>
+<tapemeasure.jpg, id=648, 1541.76pt x 1135.99406pt>
 File: tapemeasure.jpg Graphic file (type jpg)
 <use tapemeasure.jpg>
 Package pdftex.def Info: tapemeasure.jpg  used on input line 123.
@@ -965,7 +965,7 @@ Package pdftex.def Info: tapemeasure.jpg  used on input line 123.
 [19
 
  <./tapemeasure.jpg>]
-<rollermeasure.png, id=686, 316.5426pt x 316.5426pt>
+<rollermeasure.png, id=682, 316.5426pt x 316.5426pt>
 File: rollermeasure.png Graphic file (type png)
 <use rollermeasure.png>
 Package pdftex.def Info: rollermeasure.png  used on input line 128.
@@ -1008,7 +1008,7 @@ Package pdftex.def Info: rollermeasure.png  used on input line 149.
 [26
 
 ]
-<moon.jpg, id=893, 360.59718pt x 328.97906pt>
+<moon.jpg, id=889, 360.59718pt x 328.97906pt>
 File: moon.jpg Graphic file (type jpg)
 <use moon.jpg>
 Package pdftex.def Info: moon.jpg  used on input line 156.
@@ -1038,7 +1038,7 @@ Package pdftex.def Info: moon.jpg  used on input line 156.
 [32
 
 ]
-<eclipse.jpg, id=1075, 1856.9375pt x 619.31375pt>
+<eclipse.jpg, id=1071, 1856.9375pt x 619.31375pt>
 File: eclipse.jpg Graphic file (type jpg)
 <use eclipse.jpg>
 Package pdftex.def Info: eclipse.jpg  used on input line 180.
@@ -1052,12 +1052,12 @@ Package pdftex.def Info: eclipse.jpg  used on input line 180.
 [34
 
 ]
-<lunar2.JPG, id=1138, 932.48375pt x 621.32124pt>
+<lunar2.JPG, id=1134, 932.48375pt x 621.32124pt>
 File: lunar2.JPG Graphic file (type jpg)
 <use lunar2.JPG>
 Package pdftex.def Info: lunar2.JPG  used on input line 196.
 (pdftex.def)             Requested size: 139.86652pt x 93.19415pt.
-<lunar1.JPG, id=1139, 932.48375pt x 621.32124pt>
+<lunar1.JPG, id=1135, 932.48375pt x 621.32124pt>
 File: lunar1.JPG Graphic file (type jpg)
 <use lunar1.JPG>
 Package pdftex.def Info: lunar1.JPG  used on input line 196.
@@ -1079,7 +1079,7 @@ Package pdftex.def Info: lunar1.JPG  used on input line 196.
 [38
 
 ]
-<geocentric.png, id=1260, 620.3175pt x 619.31375pt>
+<geocentric.png, id=1256, 620.3175pt x 619.31375pt>
 File: geocentric.png Graphic file (type png)
 <use geocentric.png>
 Package pdftex.def Info: geocentric.png  used on input line 217.
@@ -1089,12 +1089,12 @@ Package pdftex.def Info: geocentric.png  used on input line 217.
 [39
 
  <./geocentric.png>]
-<ecliptic.png, id=1294, 666.49pt x 251.94125pt>
+<ecliptic.png, id=1289, 666.49pt x 251.94125pt>
 File: ecliptic.png Graphic file (type png)
 <use ecliptic.png>
 Package pdftex.def Info: ecliptic.png  used on input line 225.
 (pdftex.def)             Requested size: 199.94853pt x 75.58295pt.
-<eclipticsky.jpg, id=1295, 2055.68pt x 1156.32pt>
+<eclipticsky.jpg, id=1290, 2055.68pt x 1156.32pt>
 File: eclipticsky.jpg Graphic file (type jpg)
 <use eclipticsky.jpg>
 Package pdftex.def Info: eclipticsky.jpg  used on input line 225.
@@ -1112,12 +1112,12 @@ Package pdftex.def Info: eclipticsky.jpg  used on input line 225.
 [42
 
 ]
-<nearsun.png, id=1385, 711.65875pt x 466.74374pt>
+<nearsun.png, id=1381, 711.65875pt x 466.74374pt>
 File: nearsun.png Graphic file (type png)
 <use nearsun.png>
 Package pdftex.def Info: nearsun.png  used on input line 245.
 (pdftex.def)             Requested size: 135.21657pt x 88.68222pt.
-<farsun.png, id=1386, 858.20625pt x 466.74374pt>
+<farsun.png, id=1382, 858.20625pt x 466.74374pt>
 File: farsun.png Graphic file (type png)
 <use farsun.png>
 Package pdftex.def Info: farsun.png  used on input line 245.
@@ -1127,7 +1127,7 @@ Package pdftex.def Info: farsun.png  used on input line 245.
 [43
 
  <./nearsun.png> <./farsun.png>]
-<aristocrates.png, id=1423, 993.7125pt x 443.6575pt>
+<aristocrates.png, id=1419, 993.7125pt x 443.6575pt>
 File: aristocrates.png Graphic file (type png)
 <use aristocrates.png>
 Package pdftex.def Info: aristocrates.png  used on input line 252.
@@ -1153,7 +1153,7 @@ Package pdftex.def Info: aristocrates.png  used on input line 252.
 [48
 
 ]
-<eritosthenesdiagram.png, id=1577, 555.92308pt x 306.68423pt>
+<eritosthenesdiagram.png, id=1573, 555.92308pt x 306.68423pt>
 File: eritosthenesdiagram.png Graphic file (type png)
 <use eritosthenesdiagram.png>
 Package pdftex.def Info: eritosthenesdiagram.png  used on input line 275.
@@ -1172,7 +1172,7 @@ Package pdftex.def Info: eritosthenesdiagram.png  used on input line 275.
 [50
 
 ]
-<egyptmap.png, id=1638, 853.1875pt x 908.39375pt>
+<egyptmap.png, id=1634, 853.1875pt x 908.39375pt>
 File: egyptmap.png Graphic file (type png)
 <use egyptmap.png>
 Package pdftex.def Info: egyptmap.png  used on input line 286.
@@ -1182,7 +1182,7 @@ Package pdftex.def Info: egyptmap.png  used on input line 286.
 [51
 
  <./egyptmap.png>]
-<earthdiam.png, id=1672, 401.5pt x 422.57875pt>
+<earthdiam.png, id=1668, 401.5pt x 422.57875pt>
 File: earthdiam.png Graphic file (type png)
 <use earthdiam.png>
 Package pdftex.def Info: earthdiam.png  used on input line 302.
@@ -1197,7 +1197,7 @@ Package pdftex.def Info: earthdiam.png  used on input line 302.
 
 ]
 Package pdftex.def Info: Option `bb' equivalent to `viewport' with the pdftex driver on input line 319.
-<hipparchus.png, id=1734, 439.6425pt x 142.28156pt>
+<hipparchus.png, id=1730, 439.6425pt x 142.28156pt>
 File: hipparchus.png Graphic file (type png)
 <use hipparchus.png>
 Package pdftex.def Info: hipparchus.png  used on input line 319.
@@ -1207,20 +1207,234 @@ Package pdftex.def Info: hipparchus.png  used on input line 319.
 [54
 
  <./hipparchus.png>]
+<hipparchuspaint.jpg, id=1765, 375.65344pt x 281.55188pt>
+File: hipparchuspaint.jpg Graphic file (type jpg)
+<use hipparchuspaint.jpg>
+Package pdftex.def Info: hipparchuspaint.jpg  used on input line 326.
+(pdftex.def)             Requested size: 187.82625pt x 140.77559pt.
+
 
 [55
 
-]
+ <./hipparchuspaint.jpg>]
+Overfull \vbox (4.98384pt too high) detected at line 339
+ []
+
+
 
 [56
 
 ]
+Overfull \vbox (4.98384pt too high) detected at line 339
+ []
+
+
 
 [57
 
 ]
+<hipparchusnums.jpeg, id=1857, 352.31625pt x 119.69719pt>
+File: hipparchusnums.jpeg Graphic file (type jpg)
+<use hipparchusnums.jpeg>
+Package pdftex.def Info: hipparchusnums.jpeg  used on input line 345.
+(pdftex.def)             Requested size: 246.61969pt x 83.78745pt.
+
 
 [58
+
+ <./hipparchusnums.jpeg>]
+
+[59
+
+]
+
+[60
+
+]
+
+[61
+
+]
+Package pdftex.def Info: Option `bb' equivalent to `viewport' with the pdftex driver on input line 365.
+File: angletriangle.png Graphic file (type png)
+<use angletriangle.png>
+Package pdftex.def Info: angletriangle.png  used on input line 365.
+(pdftex.def)             Requested size: 168.6317pt x 96.36096pt.
+
+
+[62
+
+]
+
+[63
+
+]
+<distanceladder1.jpeg, id=2045, 103.88812pt x 198.7425pt>
+File: distanceladder1.jpeg Graphic file (type jpg)
+<use distanceladder1.jpeg>
+Package pdftex.def Info: distanceladder1.jpeg  used on input line 386.
+(pdftex.def)             Requested size: 103.88786pt x 198.742pt.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 386.
+ (c:/texlive/2024/texmf-dist/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+
+[64
+
+ <./distanceladder1.jpeg>]
+<venustransit.png, id=2078, 654.19406pt x 229.60782pt>
+File: venustransit.png Graphic file (type png)
+<use venustransit.png>
+Package pdftex.def Info: venustransit.png  used on input line 395.
+(pdftex.def)             Requested size: 327.09622pt x 114.80362pt.
+
+
+[65
+
+ <./venustransit.png>]
+<venusorbit.png, id=2113, 548.0475pt x 526.96875pt>
+File: venusorbit.png Graphic file (type png)
+<use venusorbit.png>
+Package pdftex.def Info: venusorbit.png  used on input line 401.
+(pdftex.def)             Requested size: 164.41551pt x 158.09184pt.
+
+
+[66
+
+ <./venusorbit.png>]
+<halley2.png, id=2146, 216.05719pt x 81.30376pt>
+File: halley2.png Graphic file (type png)
+<use halley2.png>
+Package pdftex.def Info: halley2.png  used on input line 410.
+(pdftex.def)             Requested size: 129.6353pt x 48.78261pt.
+<halley1.png, id=2147, 176.15813pt x 174.6525pt>
+File: halley1.png Graphic file (type png)
+<use halley1.png>
+Package pdftex.def Info: halley1.png  used on input line 410.
+(pdftex.def)             Requested size: 105.69568pt x 104.7923pt.
+
+
+[67
+
+ <./halley2.png> <./halley1.png>]
+<halley3.png, id=2182, 292.09125pt x 235.63031pt>
+File: halley3.png Graphic file (type png)
+<use halley3.png>
+Package pdftex.def Info: halley3.png  used on input line 418.
+(pdftex.def)             Requested size: 146.04526pt x 117.81487pt.
+<halley4.png, id=2183, 518.6878pt x 583.42969pt>
+File: halley4.png Graphic file (type png)
+<use halley4.png>
+Package pdftex.def Info: halley4.png  used on input line 418.
+(pdftex.def)             Requested size: 155.60754pt x 175.03024pt.
+
+
+[68
+
+ <./halley3.png> <./halley4.png>]
+<distanceladder2.jpg, id=2216, 103.88812pt x 198.7425pt>
+File: distanceladder2.jpg Graphic file (type jpg)
+<use distanceladder2.jpg>
+Package pdftex.def Info: distanceladder2.jpg  used on input line 434.
+(pdftex.def)             Requested size: 103.88786pt x 198.742pt.
+
+Overfull \vbox (20.05963pt too high) detected at line 434
+ []
+
+
+
+[69
+
+ <./distanceladder2.jpg>]
+<stellarparallaxdiagram.png, id=2249, 223.58531pt x 110.66344pt>
+File: stellarparallaxdiagram.png Graphic file (type png)
+<use stellarparallaxdiagram.png>
+Package pdftex.def Info: stellarparallaxdiagram.png  used on input line 443.
+(pdftex.def)             Requested size: 223.58475pt x 110.66315pt.
+
+
+[70
+
+ <./stellarparallaxdiagram.png>]
+<stellarparallaxdiagram2.jpg, id=2283, 223.58531pt x 110.66344pt>
+File: stellarparallaxdiagram2.jpg Graphic file (type jpg)
+<use stellarparallaxdiagram2.jpg>
+Package pdftex.def Info: stellarparallaxdiagram2.jpg  used on input line 449.
+(pdftex.def)             Requested size: 223.58475pt x 110.66315pt.
+
+
+[71
+
+ <./stellarparallaxdiagram2.jpg>]
+
+[72
+
+]
+<Parallax_wide.jpg, id=2346, 803.0pt x 613.29124pt>
+File: Parallax_wide.jpg Graphic file (type jpg)
+<use Parallax_wide.jpg>
+Package pdftex.def Info: Parallax_wide.jpg  used on input line 458.
+(pdftex.def)             Requested size: 240.90186pt x 183.98878pt.
+
+
+[73
+
+ <./Parallax_wide.jpg>]
+<WolfCrossEyed.png, id=2380, 745.28438pt x 414.04688pt>
+File: WolfCrossEyed.png Graphic file (type png)
+<use WolfCrossEyed.png>
+Package pdftex.def Info: WolfCrossEyed.png  used on input line 464.
+(pdftex.def)             Requested size: 313.0173pt x 173.8985pt.
+
+
+[74
+
+ <./WolfCrossEyed.png>]
+<distanceladder3.jpg, id=2411, 103.88812pt x 198.7425pt>
+File: distanceladder3.jpg Graphic file (type jpg)
+<use distanceladder3.jpg>
+Package pdftex.def Info: distanceladder3.jpg  used on input line 481.
+(pdftex.def)             Requested size: 103.88786pt x 198.742pt.
+
+
+[75
+
+ <./distanceladder3.jpg>]
+
+[76
+
+]
+<redshift.png, id=2474, 1400.98407pt x 467.49657pt>
+File: redshift.png Graphic file (type png)
+<use redshift.png>
+Package pdftex.def Info: redshift.png  used on input line 491.
+(pdftex.def)             Requested size: 308.21745pt x 102.84955pt.
+
+
+[77
+
+ <./redshift.png>]
+<distanceladder4.jpg, id=2507, 103.88812pt x 198.7425pt>
+File: distanceladder4.jpg Graphic file (type jpg)
+<use distanceladder4.jpg>
+Package pdftex.def Info: distanceladder4.jpg  used on input line 510.
+(pdftex.def)             Requested size: 103.88786pt x 198.742pt.
+
+Overfull \vbox (8.05963pt too high) detected at line 510
+ []
+
+
+
+[78
+
+ <./distanceladder4.jpg>]
+File: distanceladder4.jpg Graphic file (type jpg)
+<use distanceladder4.jpg>
+Package pdftex.def Info: distanceladder4.jpg  used on input line 515.
+(pdftex.def)             Requested size: 103.88786pt x 198.742pt.
+
+
+[79
 
 ]
 \tf@nav=\write6
@@ -1238,21 +1452,21 @@ LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-11-02>
  ***********
 Package rerunfilecheck Info: File `presentation.out' has not changed.
-(rerunfilecheck)             Checksum: B25AD7477220A8ED15BFDF9C9470D615;1776.
+(rerunfilecheck)             Checksum: 6B683E8625594237BCBC2FB8C835457C;1682.
  ) 
 Here is how much of TeX's memory you used:
- 24706 strings out of 473330
- 471992 string characters out of 5723878
- 843497 words of memory out of 5000000
- 47159 multiletter control sequences out of 15000+600000
- 633615 words of font info for 92 fonts, out of 8000000 for 9000
+ 24951 strings out of 473330
+ 476646 string characters out of 5723878
+ 843498 words of memory out of 5000000
+ 47354 multiletter control sequences out of 15000+600000
+ 651557 words of font info for 98 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,16n,123p,425b,952s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss17.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsso10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsso12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsso8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy8.pfb>
-Output written on Spam/presentation.pdf (58 pages, 3536400 bytes).
+<c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss17.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsso10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsso12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsso8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy6.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy8.pfb>
+Output written on Spam/presentation.pdf (79 pages, 4757913 bytes).
 PDF statistics:
- 1970 PDF objects out of 2073 (max. 8388607)
- 1719 compressed objects within 18 object streams
- 131 named destinations out of 1000 (max. 500000)
- 255 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2677 PDF objects out of 2984 (max. 8388607)
+ 2308 compressed objects within 24 object streams
+ 172 named destinations out of 1000 (max. 500000)
+ 332 words of extra memory for PDF output out of 10000 (max. 10000000)
 
